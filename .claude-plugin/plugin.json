@@ -1,0 +1,19 @@
+{
+  "name": "higgsfield-seedance2",
+  "version": "1.0.0",
+  "description": "15 skills de prompt engineering para geracao de video no Seedance 2.0 via Higgsfield. Cobre cinematic, 3D CGI, cartoon, anime, fight scenes, motion design, e-commerce, product 360, music video, social hook, brand story, fashion lookbook, food and beverage, real estate e comic to video.",
+  "author": {
+    "name": "beshuaxian",
+    "url": "https://github.com/beshuaxian"
+  },
+  "homepage": "https://github.com/beshuaxian/higgsfield-seedance2-jineng",
+  "repository": "https://github.com/beshuaxian/higgsfield-seedance2-jineng",
+  "license": "MIT",
+  "keywords": [
+    "higgsfield",
+    "seedance",
+    "video-generation",
+    "prompt-engineering",
+    "marketing"
+  ]
+}
